@@ -4,5 +4,5 @@
 ### Image:
 ![IMG_1960](https://github.com/UnboundedArchive/3013-Algorithms/assets/157320587/cfc3f4dc-a872-42b3-9275-0b3d5ba061af)
 
-### Avagar:
-![Fog Censored 1](https://github.com/UnboundedArchive/3013-Algorithms/assets/157320587/8a0c432a-56b4-45a2-986d-a7ceb784df0b)
+### Avatar:
+![Fog Censored Small](https://github.com/UnboundedArchive/3013-Algorithms/assets/157320587/d79b6e6c-75f7-4ae0-8c00-40357b4ab9ba)
