@@ -1,4 +1,4 @@
 ## Assignments
-|   #   | Folder Link | Assignment Description |
-| :---: | ----------- | ---------------------- |
-|   0   | link 0      | description 0          |
+|   #   | Folder Link                      | Assignment Description                            |
+| :---: | -------------------------------- | ------------------------------------------------- |
+|   1   |[P02](./Assignments/P02/README.md)|[Using Json and Getch](./Assignments/P02/README.md)|
