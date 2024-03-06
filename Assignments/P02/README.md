@@ -10,10 +10,10 @@ The number of matches and the time of the search based on the user
 input is displayed, as well as a list of (at most 10) matches.
 
 ### Files
-|   #   | File             | Description                               | Location           |
-| :---: | ---------------- | ----------------------------------------- | ------------------ |
-|   1   | console.hpp      | Contains console functions                | (./console.hpp)    |
-|   2   | json.hpp         | JSON for modern C++                       | (./json.hpp)       |
-|   3   | loadJsonEx.hpp   | Loads a json object based on a file path  | (./loadJsonEx.hpp) |
-|   4   | rang.hpp         | Allows for coloring text in console       | (./rang.hpp)       |
-|   5   | timer.hpp        | Allows for the timing of code execution   | (./timer.hpp)      |
+|   #   | File             | Description                               | Location                             |
+| :---: | ---------------- | ----------------------------------------- | ------------------------------------ |
+|   1   | console.hpp      | Contains console functions                | [./console.hpp](./console.hpp)       |
+|   2   | json.hpp         | JSON for modern C++                       | [./json.hpp](./json.hpp)             |
+|   3   | loadJsonEx.hpp   | Loads a json object based on a file path  | [./loadJsonEx.hpp](./loadJsonEx.hpp) |
+|   4   | rang.hpp         | Allows for coloring text in console       | [./rang.hpp)](./rang.hpp)            |
+|   5   | timer.hpp        | Allows for the timing of code execution   | [./timer.hpp](./timer.hpp)           |
