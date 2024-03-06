@@ -12,8 +12,9 @@ input is displayed, as well as a list of (at most 10) matches.
 ### Files
 |   #   | File             | Description                               | Location                             |
 | :---: | ---------------- | ----------------------------------------- | ------------------------------------ |
-|   1   | console.hpp      | Contains console functions                | [./console.hpp](./console.hpp)       |
-|   2   | json.hpp         | JSON for modern C++                       | [./json.hpp](./json.hpp)             |
-|   3   | loadJsonEx.hpp   | Loads a json object based on a file path  | [./loadJsonEx.hpp](./loadJsonEx.hpp) |
-|   4   | rang.hpp         | Allows for coloring text in console       | [./rang.hpp)](./rang.hpp)            |
-|   5   | timer.hpp        | Allows for the timing of code execution   | [./timer.hpp](./timer.hpp)           |
+|   1   | main.cpp         | Main file that launches program           | [./main.cpp](./main.cpp)             |
+|   2   | console.hpp      | Contains console functions                | [./console.hpp](./console.hpp)       |
+|   3   | json.hpp         | JSON for modern C++                       | [./json.hpp](./json.hpp)             |
+|   4   | loadJsonEx.hpp   | Loads a json object based on a file path  | [./loadJsonEx.hpp](./loadJsonEx.hpp) |
+|   5   | rang.hpp         | Allows for coloring text in console       | [./rang.hpp)](./rang.hpp)            |
+|   6   | timer.hpp        | Allows for the timing of code execution   | [./timer.hpp](./timer.hpp)           |
