@@ -26,7 +26,7 @@
 *       rang.hpp: Allows for coloring text in console
 *       timer.hpp: Allows for the timing of code execution
 * 
-*/
+*---------------------------------------------------------------------------*/
 
 #include "console.hpp"
 #include "json.hpp"
